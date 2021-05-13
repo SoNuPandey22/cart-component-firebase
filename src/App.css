@@ -1,0 +1,22 @@
+*body {
+  margin: 0;
+  padding: 0;
+
+}
+
+.cartImg {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
+
+.increaseIcon{
+
+}
+
+.decreaseItem {
+
+}
+.deleteItem {
+  
+}
